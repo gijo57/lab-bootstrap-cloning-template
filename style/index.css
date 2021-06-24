@@ -1,1 +1,63 @@
 /* Your own custom styles should be here */
+body {
+  font-family: 'Inter', sans-serif;
+  color: rgb(17, 19, 20);
+}
+
+header {
+  height: 39em;
+}
+
+h1 {
+  font-size: 3.3em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+header p {
+  font-size: 1.5em;
+}
+
+#showcase {
+  height: 44em;
+}
+
+#showcase p {
+  font-size: 1.2em;
+}
+
+#services {
+  margin-top: 10em;
+  height: 43em;
+}
+
+#services p {
+  font-size: 1.25em;
+}
+
+#services li {
+  font-size: 1.1em;
+  list-style: none;
+}
+
+#services li:before {
+  padding-right: 0.2em;
+  content: '- ';
+  color: rgb(1, 84, 255);
+}
+
+#lab {
+  height: 45em;
+  background-color: rgb(17, 19, 20);
+  color: rgb(237, 240, 242);
+}
+
+#hiring {
+  height: 68em;
+}
+
+#hiring p {
+  font-size: 1.2em;
+}
