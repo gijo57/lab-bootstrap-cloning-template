@@ -61,3 +61,16 @@ header p {
 #hiring p {
   font-size: 1.2em;
 }
+
+h4 {
+  font-size: 0.9em;
+}
+
+footer {
+  height: 27em;
+}
+
+footer li {
+  font-size: 1em;
+  list-style: none;
+}
