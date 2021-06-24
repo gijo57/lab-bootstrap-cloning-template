@@ -4,6 +4,19 @@ body {
   color: rgb(17, 19, 20);
 }
 
+a {
+  text-decoration: none;
+}
+
+#lab a {
+  color: rgb(138, 147, 153);
+}
+
+footer a {
+  color: rgb(17, 19, 20);
+  text-decoration: underline;
+}
+
 header {
   height: 39em;
 }
